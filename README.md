@@ -15,4 +15,4 @@ Parth Dave - Data science . Here I will upload all my learning
 | DAY 3 |Loop statement , while/for/nested, loop control -break/continue/pause |
 | DAY 4 |Logical operation, arithmetic operation, bitwise operation, strings |
 | DAY 5  | Binary operation (important for mechanics/ robotics/ electronics |
-
+| DAY 6  | String, list and matrix |
