@@ -1,5 +1,9 @@
-# Data-Science-
-Parth Dave - Data science . Here I will upload all my learning 
+# Data-Science
+
+For the year 2023, I am re-learning Data science from scratch. 
+This repository is my diary of everyday learning. 
+ Here I will upload all my learning.
+ 
 
 << Dont learn quickly - Practise slowly >>
 
@@ -16,3 +20,4 @@ Parth Dave - Data science . Here I will upload all my learning
 | DAY 4 |Logical operation, arithmetic operation, bitwise operation, strings |
 | DAY 5  | Binary operation (important for mechanics/ robotics/ electronics |
 | DAY 6  | String, list and matrix |
+| DAY 7  | Tuples, sets and dictionary |
