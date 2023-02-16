@@ -21,3 +21,4 @@ This repository is my diary of everyday learning.
 | DAY 5  | Binary operation (important for mechanics/ robotics/ electronics |
 | DAY 6  | String, list and matrix |
 | DAY 7  | Tuples, sets and dictionary |
+| DAY 8  | Functions|
