@@ -20,5 +20,6 @@ This repository is my diary of everyday learning.
 | DAY 4 |Logical operation, arithmetic operation, bitwise operation, strings |
 | DAY 5  | Binary operation (important for mechanics/ robotics/ electronics |
 | DAY 6  | String, list and matrix |
-| DAY 7  | Tuples, sets and dictionary |
+| DAY 7  | Tuples, sets and dictionary ( Dict is pending) |
 | DAY 8  | Functions|
+| DAY 9  | Lambda - Map reduce and Filter functions |
