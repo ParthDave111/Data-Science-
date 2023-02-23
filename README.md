@@ -23,3 +23,7 @@ This repository is my diary of everyday learning.
 | DAY 7  | Tuples, sets and dictionary ( Dict is pending) |
 | DAY 8  | Functions|
 | DAY 9  | Lambda - Map reduce and Filter functions |
+| DAY 10  | OOPS 1- Object oriented programming systems  |
+| DAY 11| OOPS 2 Polymorphism - Encapsulation -Inheritence - Abstraction|
+| DAY 12|OOPS 3 Decorator , class method, static method, Magic/ dunder method , property decorators |
+| DAY 13 | Exception Handling - Try except , custom exception hanlding |
