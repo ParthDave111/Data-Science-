@@ -27,3 +27,7 @@ This repository is my diary of everyday learning.
 | DAY 11| OOPS 2 Polymorphism - Encapsulation -Inheritence - Abstraction|
 | DAY 12|OOPS 3 Decorator , class method, static method, Magic/ dunder method , property decorators |
 | DAY 13 | Exception Handling - Try except , custom exception hanlding |
+
+
+### Pandas 
+Python library to analyze data. (Folder :Pandas)
