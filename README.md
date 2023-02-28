@@ -30,4 +30,4 @@ This repository is my diary of everyday learning.
 
 
 ### Pandas 
-Python library to analyze data. (Folder :Pandas)
+Python library to analyze data. (Folder :Pandas , file : pandas.ipynb)
