@@ -29,12 +29,14 @@ This repository is my diary of everyday learning.
 | DAY 13 | Exception Handling - Try except , custom exception hanlding |
 
 
-### Pandas 
-Python library to analyze data. (Folder :Pandas , file : pandas.ipynb)
+### Data Analysis -Python libraries
+1. Pandas . (Folder :Pandas , file : pandas.ipynb)
+2. Numpy 
 
 ### Visualization - Python libraries 
 1. Matplotlib
 2. Seaborn 
 3. Plotly 
 4. Visualization
-5.Bokeh 
+5. Bokeh 
+
