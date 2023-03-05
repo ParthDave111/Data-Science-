@@ -31,3 +31,10 @@ This repository is my diary of everyday learning.
 
 ### Pandas 
 Python library to analyze data. (Folder :Pandas , file : pandas.ipynb)
+
+### Visualization - Python libraries 
+1. Matplotlib
+2. Seaborn 
+3. Plotly 
+4. Visualization
+5.Bokeh 
