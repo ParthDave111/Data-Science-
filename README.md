@@ -40,3 +40,41 @@ This repository is my diary of everyday learning.
 4. Visualization
 5. Bokeh 
 
+### Machine Learning 
+
+|Key Concepts  |Supervised, Unsupervised, Reinforcement , Train/Test/Validation , Bias/Variance/Overfitting and underfitting |
+
+### 1. Feature Engineering 
+
+ |Code Content |Python Notebook|
+ |:-:|:-:|
+ |Handling missing Value  |Python Notebook|
+ |Handling Imbalance Data set  |Python Notebook|
+ |SMOTE  |Python Notebook|
+ |Date Interpolation  |Python Notebook|
+ |Percentile and Quartiles  |Python Notebook|
+ |Number summary and Box plots   |Python Notebook|
+ |Handling outliers  |Python Notebook|
+ |Feature selection and Updates |Python Notebook|
+ |Feature extractions  |Python Notebook|
+ |Feature scaling  |Python Notebook|
+ |Data Encoding  |Python Notebook|
+ |Label and ordinal encoding  |Python Notebook|
+ |Target Guided ordinal encoding |Python Notebook|
+ |Covariance and correlation |Python Notebook|
+ |Handling missing Value  |Python Notebook|
+
+
+### 2. Exploratory Data Analysis
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
