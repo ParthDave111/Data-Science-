@@ -28,6 +28,12 @@ This repository is my diary of everyday learning.
 | DAY 12|OOPS 3 Decorator , class method, static method, Magic/ dunder method , property decorators |
 | DAY 13 | Exception Handling - Try except , custom exception hanlding |
 
+### Database
+|Day |Code Content |
+|:-:|:-:|
+|SQL|Mysql|
+| NoSQL |MONGO db|
+
 
 ### Data Analysis -Python libraries
 1. Pandas . (Folder :Pandas , file : pandas.ipynb)
