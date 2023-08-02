@@ -79,8 +79,10 @@ This repository is my diary of everyday learning.
 ### Project - Algerian Fire 
 
  
-
- 
+### Project - Diamond Price Prediction 
+ |:-:|:-:|
+ |EDA AND FE  |Python Notebook|
+ |Model Training  |Python Notebook|
 
  
 
