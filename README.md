@@ -80,6 +80,8 @@ This repository is my diary of everyday learning.
 
  
 ### Project - Diamond Price Prediction 
+
+ |Code Content |Python Notebook|
  |:-:|:-:|
  |EDA AND FE  |Python Notebook|
  |Model Training  |Python Notebook|
