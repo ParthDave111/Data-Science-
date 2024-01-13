@@ -88,4 +88,12 @@ This repository is my diary of everyday learning.
 
  
 
+
+DEEP LEARNING 
+
+
+ |Code Content |Python Notebook|
+ |:-:|:-:|
+ |  Introduction|Python Notebook|
+ 
  
