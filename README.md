@@ -88,6 +88,11 @@ This repository is my diary of everyday learning.
 
  
 
+## Natural Language Processing 
+ |Code Content |Python Notebook|Desc.|
+ |:-:|:-:|
+ |WEB SCRAPPING  |Python Notebook|Beautiful Soup to scrap the data|
+ |Text Processing   |Python Notebook|Tokenization,Stemming and Lemmatization|
 
 DEEP LEARNING 
 
